@@ -1,34 +1,31 @@
 # Hi, I'm Laiba Ajaz 👋
 
-**Computer Science student & aspiring full-stack developer** | Learning Node.js & Express.js
+**Software Engineering Student | Learning Full-Stack Development with Node.js, Express & MongoDB.** 
 
 ## 🚀 About Me
 
-- 🎓 4th semester student at **Aptech Learning, Gulshan II**
-- 📚 Also pursuing **Associate Degree in Commerce (ADC)**
-- 💼 Team member at [**GFT Solutions**](https://www.wearegft.com/), currently working on real-world projects
-- 🌱 Currently learning **Node.js** and **Express.js** (backend development)
+- 🎓 4th-semester Software Engineering student at **Aptech Learning, Gulshan II**
+- 📚 Also pursuing an **Associate Degree in Commerce (ADC)**
+- 💼 Team member at [**GFT Solutions**](https://www.wearegft.com/), contributing to real-world software projects
+- ⚙️ Interested in backend development, application logic, and database design
+- 🌱 Currently learning **Node.js and Express.js** while building my skills across frontend and backend development
+- 🎯 Working towards my goal of becoming a skilled **Full-Stack Developer**
 - 📍 Karachi, Pakistan
+
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Comfortable with**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,angular" alt="Frontend skills" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,nodejs,express" alt="Backend skills" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,cs,dotnet,mysql" alt="Comfortable with" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" />
+</p>
+
+**Currently learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Currently learning" />
 </p>
 
 **Tools**
@@ -37,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
 </p>
 
-> 🌱 Currently focusing on: **Node.js + Express.js + MongoDB**
+
 
 ## 💼 Experience & Achievements
 
@@ -47,14 +44,13 @@
 - 🏆 Participated in **Techwiz** (Aptech's International IT competition) for **2 consecutive years**
 - 🎤 Participated in the **Aptech Vision** event
 
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/laiba-ajaz" target="_blank"><img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="45" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/laibaajaz/" target="_blank"><img src="https://img.icons8.com/color/96/linkedin.png" width="45" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:laibaajaz089@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/gmail-new.png" width="45" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/laibaajaz/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:laibaajaz089@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
 </p>
 
 ---
